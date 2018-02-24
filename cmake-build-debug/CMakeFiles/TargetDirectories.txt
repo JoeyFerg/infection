@@ -1,0 +1,3 @@
+C:/Users/Joey/Documents/Repos/Infection/cmake-build-debug/CMakeFiles/Infection.dir
+C:/Users/Joey/Documents/Repos/Infection/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Joey/Documents/Repos/Infection/cmake-build-debug/CMakeFiles/rebuild_cache.dir
